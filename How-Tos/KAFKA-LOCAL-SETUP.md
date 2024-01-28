@@ -46,13 +46,13 @@ Topic: quickstart-events	TopicId: KD_gpUa2SFC0gMd6IjxYNw	PartitionCount: 1	Repli
 ```bash
 bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
 >I am here
->Luke I am your father
+>I am your father
 >What are you
 ```
 6. **Consume messages from the topic** : The below command can be use to consume a message from the topic
 ```bash
 $ bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
 I am here
-Luke I am your father
+I am your father
 What are you
 ```

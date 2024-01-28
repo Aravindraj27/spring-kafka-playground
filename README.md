@@ -5,4 +5,4 @@ This is a living doc and will be updated as I explore more features in kafka spr
 
 This package starts from the basic implementation available in spring for kafka and **not spring itself**.
 
-``Note : Initial setups and basic instructions for this project can be found in teh how-tos folders.``
+``Note : Initial setups and basic instructions for this project can be found in the how-tos folders.``
